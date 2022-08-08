@@ -1,5 +1,5 @@
-from Salary import Salary
-from DbPeople import DbPeople
+from salary.Salary import Salary
+from dbpeople.DbPeople import DbPeople
 from datetime import datetime
 
 
